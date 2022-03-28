@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Денис\\\\Desktop\\\\exam-vue\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_185a7f8b"
+  },
+  {
+    "name": "orders",
+    "path": "/orders",
+    "component": "C:\\\\Users\\\\Денис\\\\Desktop\\\\exam-vue\\\\pages\\\\orders.vue",
+    "chunkName": "pages/orders",
+    "_name": "_631c4052"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Денис\\\\Desktop\\\\exam-vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_38125a50"
+  }
+]
